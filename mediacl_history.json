@@ -1,1 +1,97 @@
-
+{
+  "medicalHistory": {
+    "user": {
+      "idUser": 1
+    },
+    "appointments": [
+      {
+        "idAppointment": 101,
+        "appointmentDate": "2023-10-15T09:30:00",
+        "appointmentType": "General Consultation",
+        "idDoctor": 201,
+        "appointmentResult": {
+          "report": "The patient presents mild cold symptoms.",
+          "tests": [
+            {
+              "type": "Blood Test",
+              "result": "Normal white blood cell count"
+            }
+          ],
+          "prescriptions": [
+            {
+              "idMedication": 301,
+              "dosage": "500 mg every 8 hours"
+            }
+          ],
+          "diagnosis": "Common cold",
+          "ptr": [
+            "Pollen allergy",
+            "Mild asthma"
+          ]
+        }
+      },
+      {
+        "idAppointment": 102,
+        "appointmentDate": "2023-11-10T14:00:00",
+        "appointmentType": "Specialty Consultation",
+        "idDoctor": 202,
+        "appointmentResult": {
+          "report": "Evaluation of blood pressure and heart rate",
+          "tests": [
+            {
+              "type": "Electrocardiogram",
+              "result": "No abnormalities"
+            }
+          ],
+          "prescriptions": [
+            {
+              "idMedication": 302,
+              "dosage": "50 mg daily"
+            }
+          ],
+          "diagnosis": "Controlled hypertension",
+          "ptr": [
+            "Hypertension"
+          ]
+        }
+      }
+    ],
+    "hospitalizations": [
+      {
+        "admissionDate": "2023-09-05",
+        "dischargeDate": "2023-09-10",
+        "reason": "Pneumonia",
+        "medications": [
+          {
+            "idMedication": 303,
+            "dosage": "500 mg every 8 hours"
+          },
+          {
+            "idMedication": 304,
+            "dosage": "400 mg every 6 hours"
+          }
+        ]
+      }
+    ],
+    "surgeries": [
+      {
+        "idSurgery": 301,
+        "surgeryDate": "2022-08-15",
+        "surgeryType": "Appendectomy",
+        "idDoctor": 203,
+        "details": "Appendix removed due to acute appendicitis",
+        "postSurgeryMedications": [
+          {
+            "idMedication": 305,
+            "dosage": "400 mg every 6 hours"
+          },
+          {
+            "idMedication": 306,
+            "dosage": "20 mg daily"
+          }
+        ],
+        "postSurgeryStatus": "Recovery without complications"
+      }
+    ]
+  }
+}
