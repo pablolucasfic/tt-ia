@@ -1,0 +1,287 @@
+{
+  "users": [
+    {
+      "userId": 1,
+      "firstName": "John",
+      "lastName": "Doe",
+      "idNumber": "12345678A",
+      "healthCardNumber": "NHC123456",
+      "address": {
+        "street": "123 Main St",
+        "city": "Madrid",
+        "state": "Madrid",
+        "zipCode": "28001",
+        "country": "Spain"
+      },
+      "age": 30,
+      "gender": "male",
+      "phone": "+34 612 345 678",
+      "email": "johndoe1@example.com",
+      "role": "doctor"
+    },
+    {
+      "userId": 2,
+      "firstName": "Jane",
+      "lastName": "Smith",
+      "idNumber": "87654321B",
+      "healthCardNumber": "NHC876543",
+      "address": {
+        "street": "456 Maple Ave",
+        "city": "Barcelona",
+        "state": "Catalonia",
+        "zipCode": "08001",
+        "country": "Spain"
+      },
+      "age": 28,
+      "gender": "female",
+      "phone": "+34 679 123 456",
+      "email": "janesmith2@example.com",
+      "role": "patient"
+    },
+    {
+      "userId": 3,
+      "firstName": "Carlos",
+      "lastName": "Martinez",
+      "idNumber": "23456789C",
+      "healthCardNumber": "NHC234567",
+      "address": {
+        "street": "789 Oak St",
+        "city": "Valencia",
+        "state": "Valencia",
+        "zipCode": "46001",
+        "country": "Spain"
+      },
+      "age": 45,
+      "gender": "male",
+      "phone": "+34 622 345 789",
+      "email": "carlosmartinez3@example.com",
+      "role": "administrator"
+    },
+    {
+      "userId": 4,
+      "firstName": "Laura",
+      "lastName": "Gomez",
+      "idNumber": "34567890D",
+      "healthCardNumber": "NHC345678",
+      "address": {
+        "street": "101 Pine St",
+        "city": "Seville",
+        "state": "Andalusia",
+        "zipCode": "41001",
+        "country": "Spain"
+      },
+      "age": 36,
+      "gender": "female",
+      "phone": "+34 655 456 123",
+      "email": "lauragomez4@example.com",
+      "role": "patient"
+    },
+    {
+      "userId": 5,
+      "firstName": "Miguel",
+      "lastName": "Lopez",
+      "idNumber": "45678901E",
+      "healthCardNumber": "NHC456789",
+      "address": {
+        "street": "202 Birch Ave",
+        "city": "Zaragoza",
+        "state": "Aragon",
+        "zipCode": "50001",
+        "country": "Spain"
+      },
+      "age": 55,
+      "gender": "male",
+      "phone": "+34 611 789 234",
+      "email": "miguellopez5@example.com",
+      "role": "doctor"
+    },
+    {
+      "userId": 6,
+      "firstName": "Ana",
+      "lastName": "Ruiz",
+      "idNumber": "56789012F",
+      "healthCardNumber": "NHC567890",
+      "address": {
+        "street": "303 Cedar Blvd",
+        "city": "Bilbao",
+        "state": "Basque Country",
+        "zipCode": "48001",
+        "country": "Spain"
+      },
+      "age": 40,
+      "gender": "female",
+      "phone": "+34 644 321 567",
+      "email": "anaruiz6@example.com",
+      "role": "administrator"
+    },
+    {
+      "userId": 7,
+      "firstName": "David",
+      "lastName": "Alvarez",
+      "idNumber": "67890123G",
+      "healthCardNumber": "NHC678901",
+      "address": {
+        "street": "404 Spruce Dr",
+        "city": "Malaga",
+        "state": "Andalusia",
+        "zipCode": "29001",
+        "country": "Spain"
+      },
+      "age": 29,
+      "gender": "male",
+      "phone": "+34 655 654 321",
+      "email": "davidalvarez7@example.com",
+      "role": "patient"
+    },
+    {
+      "userId": 8,
+      "firstName": "Elena",
+      "lastName": "Perez",
+      "idNumber": "78901234H",
+      "healthCardNumber": "NHC789012",
+      "address": {
+        "street": "505 Maple St",
+        "city": "Granada",
+        "state": "Andalusia",
+        "zipCode": "18001",
+        "country": "Spain"
+      },
+      "age": 33,
+      "gender": "female",
+      "phone": "+34 677 876 543",
+      "email": "elenaperez8@example.com",
+      "role": "patient"
+    },
+    {
+      "userId": 9,
+      "firstName": "Pablo",
+      "lastName": "Ramirez",
+      "idNumber": "89012345J",
+      "healthCardNumber": "NHC890123",
+      "address": {
+        "street": "606 Pine Dr",
+        "city": "Murcia",
+        "state": "Murcia",
+        "zipCode": "30001",
+        "country": "Spain"
+      },
+      "age": 50,
+      "gender": "male",
+      "phone": "+34 688 432 678",
+      "email": "pabloramirez9@example.com",
+      "role": "doctor"
+    },
+    {
+      "userId": 10,
+      "firstName": "Maria",
+      "lastName": "Sanchez",
+      "idNumber": "90123456K",
+      "healthCardNumber": "NHC901234",
+      "address": {
+        "street": "707 Cedar Blvd",
+        "city": "Alicante",
+        "state": "Valencia",
+        "zipCode": "03001",
+        "country": "Spain"
+      },
+      "age": 42,
+      "gender": "female",
+      "phone": "+34 644 654 987",
+      "email": "mariasanchez10@example.com",
+      "role": "administrator"
+    },
+    {
+      "userId": 11,
+      "firstName": "Luis",
+      "lastName": "Navarro",
+      "idNumber": "12345678L",
+      "healthCardNumber": "NHC123789",
+      "address": {
+        "street": "808 Oak St",
+        "city": "Valladolid",
+        "state": "Castilla y León",
+        "zipCode": "47001",
+        "country": "Spain"
+      },
+      "age": 47,
+      "gender": "male",
+      "phone": "+34 677 654 321",
+      "email": "luisnavarro11@example.com",
+      "role": "patient"
+    },
+    {
+      "userId": 12,
+      "firstName": "Isabel",
+      "lastName": "Torres",
+      "idNumber": "23456789M",
+      "healthCardNumber": "NHC234890",
+      "address": {
+        "street": "909 Spruce Dr",
+        "city": "Las Palmas",
+        "state": "Canary Islands",
+        "zipCode": "35001",
+        "country": "Spain"
+      },
+      "age": 39,
+      "gender": "female",
+      "phone": "+34 611 234 876",
+      "email": "isabeltorres12@example.com",
+      "role": "doctor"
+    },
+    {
+      "userId": 13,
+      "firstName": "Rafael",
+      "lastName": "Moreno",
+      "idNumber": "34567890N",
+      "healthCardNumber": "NHC345901",
+      "address": {
+        "street": "1010 Birch Ave",
+        "city": "Gijón",
+        "state": "Asturias",
+        "zipCode": "33201",
+        "country": "Spain"
+      },
+      "age": 52,
+      "gender": "male",
+      "phone": "+34 633 456 123",
+      "email": "rafaelmoreno13@example.com",
+      "role": "administrator"
+    },
+    {
+      "userId": 14,
+      "firstName": "Carmen",
+      "lastName": "Garcia",
+      "idNumber": "45678901O",
+      "healthCardNumber": "NHC456012",
+      "address": {
+        "street": "1111 Maple St",
+        "city": "Santander",
+        "state": "Cantabria",
+        "zipCode": "39001",
+        "country": "Spain"
+        },
+      "age": 37,
+      "gender": "male",
+      "phone": "+34 633 456 123",
+      "email": "rafaelmoreno13@example.com",
+      "role": "administrator"
+    },
+    {
+      "userId": 15,
+      "firstName": "Sara",
+      "lastName": "Hernandez",
+      "idNumber": "56789012P",
+      "healthCardNumber": "NHC567123",
+      "address": {
+        "street": "1212 Cedar Blvd",
+        "city": "Oviedo",
+        "state": "Asturias",
+        "zipCode": "33001",
+        "country": "Spain"
+      },
+      "age": 41,
+      "gender": "+34 633 111 123",
+      "email": "joseangellmoreno13@example.com",
+      "role": "patient"
+    }
+ ]
